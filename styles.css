@@ -1,4 +1,7 @@
 
 li {
+  font-family:tahoma;
   font-size:16pt;
+  background:lightgreen;
+  box-sizing:border-box;
 }
